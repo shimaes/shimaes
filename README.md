@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shimaes
-- 👀 I’m interested in machine learning and protein folding
+- 👀 I’m interested in front end and machine learning and protein folding
 - 🌱 I’m currently learning deep learning
 - 💞️ I’m looking to collaborate on machine learning projects
 - 📫 How to reach me ...email:mathiustac@gmail.com
