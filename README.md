@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @shimaes
-- 👀 I’m interested in front end and machine learning and protein folding
-- 🌱 I’m currently learning deep learning
-- 💞️ I’m looking to collaborate on machine learning projects
+- 👀 I’m interested in de ops engineering  and protein folding
+-  I’m looking to collaborate on devops projects
 - 📫 How to reach me ...email:mathiustac@gmail.com
 
 <!---
